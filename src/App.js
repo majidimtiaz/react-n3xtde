@@ -10,6 +10,7 @@ export default function App() {
       <ul><ui>Fourth item</ui></ul>
       <ul><ui>Fifth item</ui></ul>
       <ul><ui>Sixth item</ui></ul>
+    <ul><ui>Seventh item</ui></ul>
     </div>
   );
 }
