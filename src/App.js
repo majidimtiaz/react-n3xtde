@@ -9,6 +9,7 @@ export default function App() {
       <ul><ui>Third item</ui></ul>
       <ul><ui>Fourth item</ui></ul>
       <ul><ui>Fifth item</ui></ul>
+      <ul><ui>Sixth item</ui></ul>
     </div>
   );
 }
